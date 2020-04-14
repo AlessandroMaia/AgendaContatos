@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-Projeto upado do github para estudos sobre git
+AGENDA DE CONTATOS
 =======
-#Agenda de contatos
-#Projeto feito em C# e Windows Forms
->>>>>>> 2dd7958875de272144acc0fecb510709c5f1c823
+Projeto feito em .NET e Windows Forms FrameWork.
+O Sistema gera um arquivo na pasta de origem do projeto com os contatos digitados.
+
+
