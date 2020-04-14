@@ -1,2 +1,1 @@
-#Agenda de contatos
-Projeto feito em C# e Windows Forms
+Projeto upado do github para estudos sobre git
